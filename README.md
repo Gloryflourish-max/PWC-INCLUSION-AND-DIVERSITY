@@ -28,6 +28,10 @@ The Data transformation was completed in Power Query and the dataset loaded into
 3) Removed Unnecessary rows
 4) Each of the columns in the table were validated to have the correct data type
 
+# Data Modelling
+After cleaning and transformation of the data, the next step is data modelling:
+
+
 
 
 
