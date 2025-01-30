@@ -30,6 +30,7 @@ The Data transformation was completed in Power Query and the dataset loaded into
 
 # Data Modelling
 After cleaning and transformation of the data, the next step is data modelling:
+![](pwc_datamodel.png)
 
 
 
