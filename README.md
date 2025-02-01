@@ -20,8 +20,9 @@ Calculating the following measures could help to define proper KPIs:
 10) Average Performance rating: women
 
 # Datasource
-Dataset used for this task was presented by Pwc and Diversity and Inclusion dataset:
-Dataset: Diversity and Inclusion
+Dataset used for this task was presented by [Pwc](https://www.theforage.com/virtual-experience/a87GpgE6tiku7q3gu/pw-c-switzerland/power-bi-cqxg/customer-retention) and Diversity and Inclusion dataset
+
+Dataset: [Diversity and Inclusion](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/02%20Churn-Dataset.xlsx)
 
 # Data Preparation
 The Data transformation was completed in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
