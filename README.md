@@ -1,5 +1,7 @@
+![](pwc.png)
+
 # PWC-INCLUSION-AND-DIVERSITY ANALYSIS
-This dataset provides comprehensive insights into inclusion and diversity (I&amp;D) metrics across organizations, industries, and regions. It is designed to help researchers, policymakers, and businesses analyze trends, measure progress, and identify areas for improvement in fostering inclusive and diverse workplaces.
+PWC Power BI Virtual work experience - Diversity and Inclusion Analysis dataset provides comprehensive insights into inclusion and diversity (I&amp;D) metrics across organizations, industries, and regions. It is designed to help researchers, policymakers, and businesses analyze trends, measure progress, and identify areas for improvement in fostering inclusive and diverse workplaces.
 
 # Problem Statement
 1) Define relevant KPIs in hiring, promotion, performance and turnover, 
