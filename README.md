@@ -65,9 +65,32 @@ The report consists of 3 pages:
 
 This shows visualization from diversity and inclusion:
 
-## HR PAGE
+# HR page
 
-![](pwc.png1)
+![](pwc.png1.png)
+
+# Gender Role
+
+![](pwc.png2.png)
+
+# Insights
+
+- Percentage promotions in the executive job level for men is 87.5% (end of FY20).
+- Percentage promotions in the executive job level for female is 12.5% (end of FY20).
+- The most common age group in the executive job level is 40-49 generally (male and female) with 10 employees.
+- The  most common age group in the executive job level for the female is 40-49 having 2 employees (end FY20).
+- The region with the highest employees is Switzerland having 264 employees (95 females, 165 males)
+- The region with the highest diversity in employees amongst different job level is Switzerland and Europe.
+
+# Recommendations
+
+- There should be mentorship programs and leadership development programs specifically designed for women to help them develop skills and experience needed to advance to executive positions.
+- The company should offer flexible work arrangements, such as remote work, to make it easier for all employees, especially the women, to manage their work and personal lives.
+- The company should also provide generous parental leave policies that will be available to both fathers and mothers.
+- The company should explore recruitment targeted at actively recruiting women for open positions, including at the executive level.
+- Finally the company should develop retention programs to retain talented women at all levels of the organization, this includes offering competitive salaries and benefits, along with opportunities for career 
+  development.
+
 
 
  
