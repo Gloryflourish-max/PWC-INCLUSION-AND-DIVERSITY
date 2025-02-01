@@ -33,6 +33,43 @@ After cleaning and transformation of the data, the next step is data modelling:
 
 ![](pwc_datamodel.png.png)
 
+# Data Analysis (DAX)
+Measures used in the visualization includes:
+- #leavers = CALCULATE(COUNTA('Pharma Group AG'[Employee ID]),'Pharma Group AG'[Leaver FY] IN {"FY20"})
+  
+- %  turnover F20 = ([Count of FY20 leaver? for Yes]/[total number of employee])
+  
+- % employees promoted F21 = [Count of Promotion in FY21? for Yes]/[total number of employee]
+  
+- % of hire for men = ([Count of New hire FY20? for Male]/[Total no. of hired workers])
+  
+- % of hires women = ([Count of New hire FY20? for Female]/[Total no. of hired workers])
+  
+- % of men promoted = ([Count of Promotion in FY21? for Yes for Male]/[Total promoted F21])
+  
+- % of women promoted = ([Count of Promotion in FY21? for Yes for Female]/[Total promoted F21])
+  
+- Average of FY20 Performance Rating for Female = CALCULATE(AVERAGE('Pharma Group AG'[FY20 Performance Rating]),
+	'Pharma Group AG'[Gender] IN { "Female" })
+
+- Average of FY20 Performance Rating for Male = CALCULATE(AVERAGE('Pharma Group AG'[FY20 Performance Rating]),
+	'Pharma Group AG'[Gender] IN { "Male" })
+
+# Data Visualization
+Data visualization for the data analysis (DAX) was done using Microsoft Power BI;
+
+The report consists of 3 pages:
+- The HR
+- Gender roles
+- Insights
+
+This shows visualization from diversity and inclusion:
+
+## HR PAGE
+
+![](PWC.PNG)
+
+ 
 
 
 
