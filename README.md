@@ -67,7 +67,8 @@ This shows visualization from diversity and inclusion:
 
 ## HR PAGE
 
-![](PWC.PNG)
+![](pwc.png1)
+
 
  
 
